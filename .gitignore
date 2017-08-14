@@ -1,0 +1,6 @@
+*.log
+*.o
+*.d
+tmp
+output
+jpeg2display
